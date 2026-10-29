@@ -34,6 +34,15 @@
       "price": 800,
       "file": "music/galactic-warfare.ogg",
       "sha256": "7a00238a2f2524fc96144f947bb4d24a04d526a35c79482525fa72ab4cec4d73"
+    },
+    {
+      "id": "rocket_monkey_1",
+      "type": "rocket",
+      "name": "Monkey Rocket",
+      "price": 2000,
+      "file": "rockets/monkey_rocket.png",
+      "trail_color": "#f5b814",
+      "sha256": "ad8f2715baad97e1261708941972ef6fd5d1ad2353a7827de78ab469bfd52f22"
     }
   ]
 }
