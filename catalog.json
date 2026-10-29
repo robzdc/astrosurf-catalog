@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "rocket_aero_8",
+      "type": "rocket",
+      "name": "Aero 8",
+      "price": 1000,
+      "file": "rockets/aero-8.png",
+      "trail_color": "#d23b18",
+      "sha256": "0e347b16340c4d2d8a253bfbccde4f117fa4b3e3dec61dbf43a5b9c3c5f733a4"
+    },
+    {
+      "id": "rocket_scrap_jet",
+      "type": "rocket",
+      "name": "Scrap Jet",
+      "price": 1000,
+      "file": "rockets/scrap-jet.png",
+      "trail_color": "#07d124",
+      "sha256": "27311c82acff52e746b3d146b5a97124eea771a4053f17efebb8ba6eba3f1ade"
+    },
+    {
+      "id": "music_retro_invader",
+      "type": "music",
+      "name": "Retro Invader",
+      "price": 800,
+      "file": "music/retro-invader.ogg",
+      "sha256": "827af829ef7840d6e9abf7675b32df1ce2cb6b1cc24bcaae1e8971a34c9ed013"
+    },
+    {
+      "id": "music_galactic_warfare",
+      "type": "music",
+      "name": "Galactic Warfare",
+      "price": 800,
+      "file": "music/galactic-warfare.ogg",
+      "sha256": "7a00238a2f2524fc96144f947bb4d24a04d526a35c79482525fa72ab4cec4d73"
+    }
+  ]
+}
