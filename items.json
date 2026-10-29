@@ -6,5 +6,7 @@
   {"id": "music_retro_invader", "type": "music", "name": "Retro Invader", "price": 800,
    "file": "music/retro-invader.ogg"},
   {"id": "music_galactic_warfare", "type": "music", "name": "Galactic Warfare", "price": 800,
-   "file": "music/galactic-warfare.ogg"}
+   "file": "music/galactic-warfare.ogg"},
+  {"id": "rocket_monkey_1", "type": "rocket", "name": "Monkey Rocket", "price": 2000,
+   "file": "rockets/monkey_rocket.png", "trail_color": "#f5b814"}
 ]
