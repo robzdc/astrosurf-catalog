@@ -8,5 +8,7 @@
   {"id": "music_galactic_warfare", "type": "music", "name": "Galactic Warfare", "price": 800,
    "file": "music/galactic-warfare.ogg"},
   {"id": "rocket_monkey_1", "type": "rocket", "name": "Monkey Rocket", "price": 2000,
-   "file": "rockets/monkey_rocket.png", "trail_color": "#f5b814"}
+   "file": "rockets/monkey_rocket.png", "trail_color": "#f5b814"},
+  {"id": "music_orbital_velocity", "type": "music", "name": "Orbital Velocity", "price": 1200,
+   "file": "music/orbital-velocity.ogg"}
 ]

@@ -43,6 +43,14 @@
       "file": "rockets/monkey_rocket.png",
       "trail_color": "#f5b814",
       "sha256": "ad8f2715baad97e1261708941972ef6fd5d1ad2353a7827de78ab469bfd52f22"
+    },
+    {
+      "id": "music_orbital_velocity",
+      "type": "music",
+      "name": "Orbital Velocity",
+      "price": 1200,
+      "file": "music/orbital-velocity.ogg",
+      "sha256": "9e1e14561156c3a28db63ba8809357c7b45111ed54d0e574a82291df55053d20"
     }
   ]
 }
