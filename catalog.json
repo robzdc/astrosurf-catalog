@@ -51,6 +51,33 @@
       "price": 1200,
       "file": "music/orbital-velocity.ogg",
       "sha256": "9e1e14561156c3a28db63ba8809357c7b45111ed54d0e574a82291df55053d20"
+    },
+    {
+      "id": "rocket_phantom_x",
+      "type": "rocket",
+      "name": "Phantom X",
+      "price": 2000,
+      "file": "rockets/phantom-x.png",
+      "trail_color": "#265bed",
+      "sha256": "2f2c81cbf006977300b3731f3bcbc81c2eeba7f35670e236e228fbfd6380a7eb"
+    },
+    {
+      "id": "rocket_steam_punk",
+      "type": "rocket",
+      "name": "Steam Punk",
+      "price": 1200,
+      "file": "rockets/steam-punk.png",
+      "trail_color": "#ef974d",
+      "sha256": "ac44b688c12c0cda1dcbbcf74e06cf230d8d2a3626ff290c6e3f33da19dfc872"
+    },
+    {
+      "id": "rocket_pizza_delivery",
+      "type": "rocket",
+      "name": "Pizza Delivery",
+      "price": 1500,
+      "file": "rockets/pizza-delivery.png",
+      "trail_color": "#b42615",
+      "sha256": "f6520882cd33f75db333d7b5f9d9df0c6d1dc7af5a0366485dc1de62188cadd2"
     }
   ]
 }
