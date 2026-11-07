@@ -78,6 +78,33 @@
       "file": "rockets/pizza-delivery.png",
       "trail_color": "#b42615",
       "sha256": "f6520882cd33f75db333d7b5f9d9df0c6d1dc7af5a0366485dc1de62188cadd2"
+    },
+    {
+      "id": "rocket_neon_viper",
+      "type": "rocket",
+      "name": "Neon Viper",
+      "price": 2000,
+      "file": "rockets/neon-viper.png",
+      "trail_color": "#8009dc",
+      "sha256": "d1a16cb6105c223a1d6071ba148eaadf12b34c84040c458fd0af6198f7f96024"
+    },
+    {
+      "id": "rocket_biohazard",
+      "type": "rocket",
+      "name": "Biohazard",
+      "price": 1500,
+      "file": "rockets/biohazard.png",
+      "trail_color": "#116d11",
+      "sha256": "ac559a370113fcfe0275785cc1122e41fbc02f64f9a0515825fca1bf09ad6885"
+    },
+    {
+      "id": "rocket_cactus",
+      "type": "rocket",
+      "name": "Cactus",
+      "price": 1500,
+      "file": "rockets/cactus-rocket.png",
+      "trail_color": "#b0353e",
+      "sha256": "d5fa1ca668ad7a8646b9928441188ced7ba1c6250c753e5f582dd771ef555c31"
     }
   ]
 }

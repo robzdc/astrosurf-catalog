@@ -16,5 +16,11 @@
   {"id": "rocket_steam_punk", "type": "rocket", "name": "Steam Punk", "price": 1200,
    "file": "rockets/steam-punk.png", "trail_color": "#ef974d"},
   {"id": "rocket_pizza_delivery", "type": "rocket", "name": "Pizza Delivery", "price": 1500,
-   "file": "rockets/pizza-delivery.png", "trail_color": "#b42615"}
+   "file": "rockets/pizza-delivery.png", "trail_color": "#b42615"},
+  {"id": "rocket_neon_viper", "type": "rocket", "name": "Neon Viper", "price": 2000,
+   "file": "rockets/neon-viper.png", "trail_color": "#8009dc"},
+  {"id": "rocket_biohazard", "type": "rocket", "name": "Biohazard", "price": 1500,
+   "file": "rockets/biohazard.png", "trail_color": "#116d11"},
+  {"id": "rocket_cactus", "type": "rocket", "name": "Cactus", "price": 1500,
+   "file": "rockets/cactus-rocket.png", "trail_color": "#b0353e"}
 ]
